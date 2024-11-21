@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #2c3e50;
+            font-family: 'Trebuchet MS', sans-serif;
+        }
+        p {
+            color: #34495e;
+            font-family: 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello!</h1>
+    <p>My name is Pritul Bhavesh Vachhani and I am a sophomore in my 2nd year.</p>
+    <p>I like to play volleyball and watch anime.</p>
+</body>
+</html>
